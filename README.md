@@ -42,7 +42,7 @@ Each curse is designed to be humorous, lighthearted, and easy to understand.
 
 2. **Backend Development**:
    - Created a FastAPI application to handle API requests.
-   - Developed an endpoint (`/generate_curse`) that returns a random curse.
+   - Developed an endpoint () that returns a random curse.
    - Used Python's random module to generate curses dynamically.
 
 3. **Deployment**:
@@ -52,13 +52,13 @@ Each curse is designed to be humorous, lighthearted, and easy to understand.
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/curses-game.git
+   git clone https://github.com/Victorasuquo/curse-Game-/blob/main/README.md
    ```
-2. Open the `index.html` file in your browser or access the hosted version [here](https://<your-username>.github.io/curses-game-frontend/).
+2. Open the `index.html` file in your browser or access the hosted version [here](https://curse-game-elect.onrender.com).
 3. Click "Generate Curse" and enjoy!
 
-## Screenshot
-![Curses Game Interface](https://via.placeholder.com/800x400.png?text=Curses+Game+Screenshot)
+## Development 
+![Curses Game Interface](image2.png)
 
 ## Future Enhancements
 - Add multiplayer functionality.
@@ -66,7 +66,7 @@ Each curse is designed to be humorous, lighthearted, and easy to understand.
 - Add a scoring system for competitive play.
 
 ---
-**Contributors**: Victor Asuquo
+**Made by**: Victor Asuquo
 
 Feel free to raise issues or suggest improvements in the repository!
 
